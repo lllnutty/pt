@@ -134,13 +134,14 @@ html {
     left: 0;
     z-index: 2;
     position: fixed;
+    background-color:rgba(0,0,0,0.2);
   }
   
   .top-bar.active {
     transition-duration: 0.5s;
     z-index: 2;
-    background-color: #fff;
-    color: #333;
+    background-color:#fff;
+    color:#000;
   }
   
   .menu-box {
@@ -269,14 +270,14 @@ html {
   }
   
   .sec-3-img {
-    transform: translatey(100%);
+    transform: translatez(100%);
     opacity: 0;
-    transition: transform 1s, opacity 2s;
+    transition: transform 2s, opacity 3s;
     margin-top: 3px;
   }
   
   .sec-3-img.active {
-    transform: translatey(0);
+    transform: translatez(0);
     opacity: 1;
   }
   
@@ -404,6 +405,20 @@ html {
     color: #afafaf;
   }
   
+  .sec-4-item-view{
+    margin-top:100px;
+  }
+  
+  .view-txt{
+    font-size:20px;
+    font-weight:bold;
+    color:white;
+    background-color:#dfdfdf;
+    padding:0 10px;
+    border-radius:10px;
+    cursor:pointer;
+  }
+  
   .main-section-5 {
     margin-top: 250px;
   }
@@ -485,7 +500,7 @@ html {
   
   .bottom-bar {
     margin-top: 150px;
-    margin-bottom: 60px;
+    margin-bottom:80px;
   }
   
   .bottom-line {

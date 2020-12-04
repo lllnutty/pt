@@ -135,14 +135,15 @@ function ActiveOnVisible__checkAndActive() {
 $(function () {
   setTimeout(function () {
     ActiveOnVisible__init();
-  }, 700);
+  }, 200);
 });
 /* 발견되면 활성화시키는 라이브러리 끝 */
 
 function SliderBox1__init() {
   $(".slider-box-1 > .slick").slick({
     dots: false,
-    autoplay: false,
+    autoplay: true,
+    autoplaySpeed: 4000,
     slidesToShow: 1,
     slidesToScroll: 1,
     centerMode: true,

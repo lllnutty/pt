@@ -52,21 +52,21 @@ SliderBox1__init();
 <!--
 function designPop1()
 {
-window.open("https://raw.githubusercontent.com/lllnutty/my-img/master/design/arte.png", "startpop", "top=20, left=200, width=1300, height=5386, scrollbars=yes, resizable=no ,status=no ,toolbar=no");
+window.open("https://raw.githubusercontent.com/lllnutty/my-img/master/design/arte.png", "startpop", "top=20, left=200, width=1010, height=710, scrollbars=yes, resizable=no ,status=no ,toolbar=no");
 }
 //-->
 
 <!--
 function designPop2()
 {
-window.open("https://raw.githubusercontent.com/lllnutty/my-img/master/design/converse.png", "startpop", "top=20, left=200, width=1400, height=4842, scrollbars=yes, resizable=no ,status=no ,toolbar=no");
+window.open("https://raw.githubusercontent.com/lllnutty/my-img/master/design/converse.png", "startpop", "top=20, left=200, width=1010, height=710, scrollbars=yes, resizable=no ,status=no ,toolbar=no");
 }
 //-->
 
 <!--
 function designPop3()
 {
-window.open("https://lllnutty.github.io/my-img/design/terarosa.png", "startpop", "top=20, left=200, width=1000, height=2200, scrollbars=yes, resizable=no ,status=no ,toolbar=no");
+window.open("https://lllnutty.github.io/my-img/design/terarosa.png", "startpop", "top=20, left=200, width=1010, height=710, scrollbars=yes, resizable=no ,status=no ,toolbar=no");
 }
 //-->
 <!--
